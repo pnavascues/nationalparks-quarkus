@@ -17,7 +17,7 @@ import java.util.List;
  * Created by jmorales on 25/08/16.
  */
 // @ReadingConverter
-public class ParkReadConverter<DBObject, Park> {
+public class ParkReadConverter {
 
 
     public Park convert(DBObject source) {
